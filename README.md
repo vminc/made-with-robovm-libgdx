@@ -28,7 +28,8 @@ Rules
 * [Tic Tac Toe ⑤ for iOS](https://apps.apple.com/us/app/id1107349135)
 
 ## [Minkusoft](http://minkusoft.com/)
-* [Matching Colors](http://minkusoft.com/matchingcolors/)
+* [Matching Colors](https://play.google.com/store/apps/details?id=cat.minkusoft.matchingcolors)
+* [Matching Colors for iOS](https://apps.apple.com/us/app/matching-colors-game/id1453816704)
 
 ## Pizzaroof Studios
 * [Sinful Rush: Endless Run](https://play.google.com/store/apps/details?id=com.pizzaroof.sinfulrush)
