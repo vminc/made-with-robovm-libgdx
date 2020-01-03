@@ -17,9 +17,8 @@ Rules
 - Please limit your orgnanization logo size to 50px width to avoid cluttering of the page.
 
 # List of organization and apps
-## [Popoko VM Games Studio](https://popoko.live/)
+## <img src='https://lh3.googleusercontent.com/8_cCHtGb4yYrCfVWFDt3ZQUKGiVqaMr5XZ24qGMe1k_xb8noCK_LCELG_Yu_i1qBe5BI=w288-h288-n-rw' width="50"/> [Popoko VM Games Studio](https://popoko.live/)
 
-<img src='https://lh3.googleusercontent.com/8_cCHtGb4yYrCfVWFDt3ZQUKGiVqaMr5XZ24qGMe1k_xb8noCK_LCELG_Yu_i1qBe5BI=w288-h288-n-rw' width="50"/>
 
 * [Minesweeper](https://play.google.com/store/apps/details?id=com.popoko.minesweeper)
 * [Chess](https://play.google.com/store/apps/details?id=com.popoko.chessru)
