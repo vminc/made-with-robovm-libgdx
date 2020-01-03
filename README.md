@@ -14,12 +14,12 @@ This repository is an open list of apps that is made by libGDX and/or RoboVM. Pl
 
 Rules
 - To avoid clutterring, each developer is limited to list 20 of their apps on this page. Please also send a proof that your app is made with LibGDX/RoboVM, not some other technologies.
-- Please limit your orgnanization logo size to 200px width to avoid cluttering of the page.
+- Please limit your orgnanization logo size to 50px width to avoid cluttering of the page.
 
 # List of organization and apps
 ## [Popoko VM Games Studio](https://popoko.live/)
 
-<img src='https://lh3.googleusercontent.com/8_cCHtGb4yYrCfVWFDt3ZQUKGiVqaMr5XZ24qGMe1k_xb8noCK_LCELG_Yu_i1qBe5BI=w288-h288-n-rw' width="200"/>
+<img src='https://lh3.googleusercontent.com/8_cCHtGb4yYrCfVWFDt3ZQUKGiVqaMr5XZ24qGMe1k_xb8noCK_LCELG_Yu_i1qBe5BI=w288-h288-n-rw' width="50"/>
 
 * [Minesweeper](https://play.google.com/store/apps/details?id=com.popoko.minesweeper)
 * [Chess](https://play.google.com/store/apps/details?id=com.popoko.chessru)
