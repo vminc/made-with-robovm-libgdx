@@ -16,6 +16,9 @@ Rules
 - To avoid clutterring, each developer is limited to list 20 of their apps on this page. Please also send a proof that your app is made with LibGDX/RoboVM, not some other technologies.
 - Please limit your orgnanization logo size to 50px width to avoid cluttering of the page.
 
+# License
+There is no license required as this is not a software repo.
+
 # List of organization and apps
 
 ## Open-source Games
