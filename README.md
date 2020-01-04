@@ -18,6 +18,17 @@ Rules
 
 # List of organization and apps
 
+## Open-source Games
+* [Super Jumper Demo](https://github.com/libgdx/libgdx-demo-superjumper)
+* [Mindustry - Tower Defense Game](https://github.com/Anuken/Mindustry)
+* [CivV](https://github.com/yairm210/Unciv)
+* [TerraLegion](https://github.com/jmrapp1/TerraLegion)
+* [Martian Run](https://github.com/wmora/martianrun)
+* [Destination Sol](https://github.com/MovingBlocks/DestinationSol)
+* [Diablo2](https://github.com/collinsmith/riiablo)
+* [1010](https://github.com/LonamiWebs/Klooni1010)
+* [SuperMarioBros](https://github.com/arjanfrans/mario-game)
+
 <img src='https://lh3.googleusercontent.com/8_cCHtGb4yYrCfVWFDt3ZQUKGiVqaMr5XZ24qGMe1k_xb8noCK_LCELG_Yu_i1qBe5BI=w288-h288-n-rw' width="50" /> 
 
 ## [Popoko VM Games Studio](https://popoko.live/)
